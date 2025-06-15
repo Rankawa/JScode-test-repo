@@ -1,5 +1,5 @@
 {
-  "name": "azure-node-app",
+  "name": "Task-2WebApp",
   "version": "1.0.0",
   "scripts": {
     "start": "node index.js"
